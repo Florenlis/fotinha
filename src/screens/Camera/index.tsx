@@ -1,5 +1,5 @@
 import { CameraView, CameraType, useCameraPermissions, CameraCapturedPicture } from 'expo-camera';
-import { useRef, useState } from 'react';
+import {git  useRef, useState } from 'react';
 import { Button, Text, TouchableOpacity, View, Alert, ImageBackground, Image } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons';
 import { styles } from './styles';
